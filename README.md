@@ -26,4 +26,4 @@ enter the span and load values when prompted. The tool prints the
 reactions and maximum bending moment, and plots the diagrams.
 
 ## Author
-Nigel Madziyire— BEng Civil Engineering, Aston University
+Nigel Madziyire — BEng Civil Engineering, Aston University
