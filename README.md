@@ -17,6 +17,10 @@ derived every governing equation by hand from first principles
 code, and validated the output against my own hand calculations to 
 confirm accuracy.
 
+## Hand calculations
+Before writing any code, I derived the governing equations by hand from 
+static equilibrium. The full working is here: [hand-calculations.pdf](hand-calculations.pdf)
+
 ## Built with
 Python, NumPy, Matplotlib
 
